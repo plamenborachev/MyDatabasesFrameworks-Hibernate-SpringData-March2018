@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ivan",
+    "lastName": "Georgiev",
+    "addressImportDto": {
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "street": "Sofia"
+    },
+    "phoneJsonDtos": [
+      {
+        "number": "5425325",
+        "personId": 1
+      },
+      {
+        "number": "54262152",
+        "personId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Ssvilen",
+    "lastName": "Georgiev",
+    "addressImportDto": {
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "street": "Sofia"
+    },
+    "phoneJsonDtos": [
+      {
+        "number": "5425325",
+        "personId": 2
+      },
+      {
+        "number": "54262152",
+        "personId": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Milcho",
+    "lastName": "Georgiev",
+    "addressImportDto": {
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "street": "Sofia"
+    },
+    "phoneJsonDtos": [
+      {
+        "number": "54262152",
+        "personId": 3
+      },
+      {
+        "number": "5425325",
+        "personId": 3
+      }
+    ]
+  }
+]

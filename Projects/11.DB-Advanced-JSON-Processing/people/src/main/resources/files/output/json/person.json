@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "firstName": "Ssvilen",
+  "lastName": "Georgiev",
+  "addressImportDto": {
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "street": "Mladost"
+  },
+  "phoneJsonDtos": [
+    {
+      "number": "5425325",
+      "personId": 2
+    },
+    {
+      "number": "54262152",
+      "personId": 2
+    }
+  ]
+}
